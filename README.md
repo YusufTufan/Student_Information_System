@@ -1,24 +1,41 @@
-# Öğrenci Bilgi Otomasyonu
-Bu Java programı, öğrenci bilgilerini girmek, listelemek, dönem sonu notlarını hesaplamak ve çeşitli analizler yapmak için bir arayüz sağlar.
+# 🎓 Student Information System – Java
 
-## Kullanım
-Programı çalıştırdığınızda, ana menüden seçim yapabilirsiniz:
+This project is a simple **Student Information System** developed using **Java**. It allows basic management of student records and academic data through object-oriented programming principles.
 
-1. **Öğrenci bilgilerini girme:** Bu seçenek, sınıftaki öğrenci sayısını girmenizi sağlar. Daha sonra her bir öğrenci için kimlik numarası, adı, ara sınav ve final notlarını girebilirsiniz.
+---
 
-2. **Girilmiş öğrenci bilgilerini listeleme:** Bu seçenek, daha önce girmiş olduğunuz öğrenci bilgilerini listeleyerek kontrol etmenizi sağlar.
+## 🧩 Features
 
-3. **Dönem sonu notlarını hesaplama:** Bu seçenek, her bir öğrencinin dönem sonu notunu hesaplar ve listeler. Not hesaplama formülü: Dönem Sonu Notu = (Ara Sınav Notu * 0.4) + (Final Notu * 0.6).
+- 📋 Add, update, and delete student records  
+- 📚 Manage courses and grades  
+- 🧠 Uses OOP concepts: Classes, Inheritance, Encapsulation  
+- 🖥️ Console-based interface for interaction
 
-4. **Final sınavı 60 altında olan öğrencilerin bilgilerini listeleme:** Bu seçenek, final sınavı 60 puanın altında olan öğrencilerin bilgilerini listeleyerek belirlemenizi sağlar.
+---
 
-5. **Dönem sonu notu sınıf ortalamasının üzerinde olan öğrencilerin bilgilerini listeleme:** Bu seçenek, dönem sonu notu sınıf ortalamasının üzerinde olan öğrencilerin bilgilerini listeleyerek belirlemenizi sağlar.
+## 🛠 Technologies
 
-6. **En düşük vize notunu bulma:** Bu seçenek, sınıftaki en düşük vize notunu bulur ve ekrana yazdırır.
+- Java (Standard Edition)
+- Object-Oriented Programming (OOP)
+- CLI (Command-Line Interface)
 
-7. **En yüksek final notunu bulma:** Bu seçenek, sınıftaki en yüksek final notunu bulur ve ekrana yazdırır.
+---
 
-0. **Programdan çıkma:** Bu seçenek, programı sonlandırır.
+# 🎓 Öğrenci Bilgi Sistemi – Java
 
-## Geliştirme Ortamı
-Bu program Java programlama dili kullanılarak geliştirilmiştir. Geliştirme sürecinde IntelliJ IDEA gibi bir Java IDE'si kullanılmıştır. Programın çalışması için JDK (Java Development Kit) gereklidir.
+Bu proje, **Java** ile geliştirilmiş basit bir **Öğrenci Bilgi Sistemi** uygulamasıdır. OOP (NYP) kavramlarıyla öğrenci kayıtlarını ve notlarını yönetme işlemleri yapılabilmektedir.
+
+---
+
+## 🧩 Özellikler
+
+- 📋 Öğrenci ekleme, düzenleme ve silme  
+- 📚 Ders ve not yönetimi  
+- 🧠 Sınıf yapısı, kalıtım ve kapsülleme gibi OOP prensipleri  
+- 🖥️ Konsol tabanlı kullanıcı arayüzü
+
+---
+
+## 👨‍💻 Developer / Geliştirici
+
+**Yusuf Tufan**  
